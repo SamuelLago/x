@@ -1,0 +1,11 @@
+*{
+    background-color: black;
+    color: white;
+}
+#calcula{ 
+    text-align: center;
+    margin: 10px;
+    font-size: large;
+    padding: 2px;
+    font-family: Arial;
+}
